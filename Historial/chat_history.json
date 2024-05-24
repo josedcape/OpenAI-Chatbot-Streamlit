@@ -1,0 +1,62 @@
+[
+    {
+        "role": "user",
+        "content": "hola",
+        "timestamp": 1716357533.5100305
+    },
+    {
+        "role": "assistant",
+        "content": "\u00a1Hola! Soy Ana, la asistente virtual de Saz\u00f3n Burguer. \u00bfEn qu\u00e9 puedo ayudarte hoy? Si tienes alguna pregunta sobre nuestro men\u00fa o nuestros servicios, estar\u00e9 encantada de ayudarte. \u00a1Adelante!",
+        "timestamp": 1716357538.8907197
+    },
+    {
+        "role": "user",
+        "content": "quiero ordenar una hamburguesa ",
+        "timestamp": 1716357614.9097626
+    },
+    {
+        "role": "assistant",
+        "content": "\u00a1Hola! Claro, estar\u00e9 encantada de ayudarte con tu pedido. Tenemos una variedad de hamburguesas deliciosas. \u00bfTienes alguna preferencia? Ofrecemos hamburguesas sencillas, dobles, triples, especiales, caseras y napolitanas. Tambi\u00e9n puedes agregar jalape\u00f1os, tocino, queso cheddar o queso americano a tu hamburguesa. \u00bfTe gustar\u00eda agregar alguna de estas opciones a tu hamburguesa?",
+        "timestamp": 1716357621.719212
+    },
+    {
+        "role": "user",
+        "content": "Perfecto dame dos hamburguesas dobles y que bebida me recomiendas ",
+        "timestamp": 1716357721.02526
+    },
+    {
+        "role": "assistant",
+        "content": "\u00a1Por supuesto! Para nuestras deliciosas hamburguesas dobles, te recomendar\u00eda la cerveza Club Colombia, que tiene un perfil de sabor complejo que complementa muy bien el sabor intenso de nuestras hamburguesas. Tambi\u00e9n, el batido de chocolate es una opci\u00f3n indulgente y deliciosa que va muy bien con cualquier hamburguesa. Si prefieres una opci\u00f3n m\u00e1s ligera y refrescante, nuestro batido de fresa o el agua mineral con gas son excelentes elecciones. \u00bfTe gustar\u00eda agregar alguna de estas bebidas a tu pedido?",
+        "timestamp": 1716357730.0525055
+    },
+    {
+        "role": "user",
+        "content": "perfecto dime cuanto seria por todo y como puedo pagar ",
+        "timestamp": 1716357863.5073917
+    },
+    {
+        "role": "assistant",
+        "content": "\u00a1Hola! Claro, con gusto te ayudo a calcular el total de tu orden. \u00bfPodr\u00edas decirme qu\u00e9 platillos has elegido y cu\u00e1ntos son en total? De esta manera podr\u00e9 darte el precio exacto. Adem\u00e1s, en Saz\u00f3n Burguer aceptamos pagos en efectivo, tarjeta de cr\u00e9dito o d\u00e9bito. \u00bfHay alguna forma de pago en particular que prefieras utilizar? \u00a1Estoy aqu\u00ed para ayudarte en lo que necesites!",
+        "timestamp": 1716357866.8159578
+    },
+    {
+        "role": "user",
+        "content": "\u00a1Por supuesto! Para nuestras deliciosas hamburguesas dobles, te recomendar\u00eda la cerveza Club Colombia, que tiene un perfil de sabor complejo que complementa muy bien el sabor intenso de nuestras hamburguesas. Tambi\u00e9n, el batido de chocolate es una opci\u00f3n indulgente y deliciosa que va muy bien con cualquier hamburguesa. Si prefieres una opci\u00f3n m\u00e1s ligera y refrescante, nuestro batido de fresa o el agua mineral con gas son excelentes elecciones. \u00bfTe gustar\u00eda agregar alguna de estas bebidas a tu pedido?",
+        "timestamp": 1716358017.6510718
+    },
+    {
+        "role": "assistant",
+        "content": "\u00a1Hola! \u00bfQu\u00e9 bebida me recomendar\u00edas para acompa\u00f1ar una hamburguesa doble en Saz\u00f3n Burguer?",
+        "timestamp": 1716358019.1965504
+    },
+    {
+        "role": "assistant",
+        "content": "\u00a1Hola! Soy Ana, la asesora de ventas de Sazon Burguer. \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+        "timestamp": 1716431721.7884681
+    },
+    {
+        "role": "assistant",
+        "content": "\u00a1Hola! Soy Ana, la asesora de ventas de Saz\u00f3n Burguer. \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+        "timestamp": 1716432356.0280128
+    }
+]
